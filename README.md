@@ -1,4 +1,4 @@
-# ADDON_NAME for IX-Ray Platform
+# ADDON_NAME (ver. ..) for IX-Ray Platform
 
 ## Overview
 
@@ -25,13 +25,13 @@ Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6
 
 Сontents of this repository are licensed under terms of the __CC BY-NC-SA 4.0__ license unless otherwise specified. See [this](./LICENSE.txt) file for details
 
+## Обзор
+
 ## Примечаниe
 
 > [!WARNING]
 >
 > Поддерживается только на __IX-Ray Platform__!
-
-## Обзор
 
 ## Рекомендации
 
